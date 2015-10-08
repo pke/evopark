@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+
+    <!--
+        Customize the content security policy in the meta tag below as needed. Add 'unsafe-inline' to default-src to enable inline JavaScript.
+        For details, see http://go.microsoft.com/fwlink/?LinkID=617521
+    -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *">
+    <!--meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi, minimal-ui" /-->
+    <meta name="msapplication-tap-highlight" content="no" />
+    <title>evopark</title>
+
+    <script src="lib/WinJS/js/base.min.js"></script>
+    <script src="lib/WinJS/js/ui.min.js"></script>
+    <link href="lib/WinJS/css/ui-light.min.css" rel="stylesheet" />
+
+    <link href="css/index.css" rel="stylesheet" />
+    <script src="scripts/navigator.js"></script>
+    <script src="scripts/api.js"></script>
+</head>
+<body>
+    <h2 class="title">evopark</h2>
+    <div class="appPivot" data-win-control="WinJS.UI.Pivot" style="display:none" data-win-options="{ title: 'evopark' }">
+        <div class="overview" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Übersicht' }">
+            <h4>Aktueller Parkplatz</h4>
+            <p>
+                Barbarossaplatz, <a href="#">Stellplatz B15</a>
+                <img src="images/WP_20150712_002.jpg" style="width:100%" />
+            </p>
+            <button style="width:100%" onclick="this.parentElement.querySelector('.redeemCode').winControl.show()">Gutschein einlösen</button>
+            <div class="redeemCode" data-win-control="WinJS.UI.ContentDialog" data-win-options="{
+                title: 'Gutschein einlösen',
+                primaryCommandText: 'Einlösen'}">
+                <input style="width:100%"/>
+            </div>
+            <h4>Händler in der Nähe</h4>
+            <div data-win-control="WinJS.UI.Repeater"
+                 data-win-options="{data: App.Model.nearby}">
+                <div class="dealer-item" data-win-bind="this['status']:availability WinJS.Binding.setAttribute">
+                    <img data-win-bind="src:logo_url"/>
+                    <div class="name" data-win-bind="textContent: name"></div>
+                    <div><span data-win-bind="textContent:todays_opening_times.opens_at"></span>-<span data-win-bind="textContent:todays_opening_times.closes_at"></span></div>
+                </div>
+            </div>
+        </div>
+        <div class="garages" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Parkäuser' }">
+            <div class="garage-item-template" data-win-control="WinJS.Binding.Template">
+                <div class="garage-item" data-win-bind="this['status']:status WinJS.Binding.setAttribute">
+                    <h2 class="name" data-win-bind="textContent: name"></h2>
+                    <div class="store-count" data-win-bind="this['count']:nearby_store_count WinJS.Binding.setAttribute"><div data-win-bind="textContent:nearby_store_count"></div></div>
+                </div>
+            </div>
+            <div data-win-control="WinJS.UI.ListView"
+                 data-win-options="{
+                    itemDataSource: App.Model.garages.dataSource,
+                    itemTemplate:select('.garage-item-template'),
+                    layout: {type: WinJS.UI.ListLayout, orientation: 'vertical'}}">
+            </div>
+        </div>
+        <div class="activities" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Aktivitäten' }">
+            <div class="itemTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="item">
+                    <h2 data-win-bind="textContent: name"></h2>
+                </div>
+            </div>
+            <div data-win-control="WinJS.UI.ListView"
+                 data-win-options="{
+                    itemDataSource: App.Model.activities.dataSource,
+                    itemTemplate:select('.itemTemplate'),
+                    layout: {type: WinJS.UI.ListLayout, orientation: 'vertical'}}">
+            </div>
+        </div>
+        <div class="account" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Account' }">
+            <h2>Account info</h2>
+            <button>Anmelden</button>
+        </div>
+    </div>
+    <!--<div id="contenthost" data-win-control="Application.PageControlNavigator" data-win-options="{home: '/pages/home.html'}"></div>-->
+    <div id="appbar" data-win-control="WinJS.UI.AppBar" style="display:none" data-win-options="{closedDisplayMode: 'minimal'}">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'openFile', label:'Gutschein einlösen', icon:'openfile'}" type="button"></button>
+    </div>
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+    <script src="scripts/index.js"></script>
+</body>
+</html>

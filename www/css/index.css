@@ -1,0 +1,77 @@
+﻿body {
+    font-family: "OpenSans"
+}
+
+#contenthost {
+    margin-bottom: 24px; /* Take the appbar into account */
+}
+
+.win-listview {
+    height: 100%;
+}
+
+.title {
+    background-color: #538DCA;
+    color: white;
+    padding: 0.4em 13px;
+    margin: 0;
+}
+
+.win-pivot .win-pivot-title {
+    display: none !important; /* WinJS sets an inline block, we need to override it */
+    margin:0;
+    padding: 14px 0 13px 24px;
+    background-color: #538DCA;
+    color: white;
+}
+
+.garage-item {
+    display: -ms-grid;
+    -ms-grid-columns: 1fr 30px;
+    grid-columns: 1fr 30px;
+    -ms-grid-rows: 1fr;
+    border-bottom: 1px solid gray;
+}
+
+.garage-item .store-count {
+    -ms-grid-column:2;
+    background:url("../images/retailer-icon.png") no-repeat;
+    width:26px;
+    height:30px;
+    position:relative;
+    margin: auto;
+}
+
+.garage-item[status=upcoming],
+.garage-item .store-count[count='0'],
+.dealer-item[status=closed] {
+    opacity:0.4;
+}
+
+.garage-item .store-count > div {
+    text-align:center;
+    position:absolute;
+    bottom: 2px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.dealer-item {
+    position:relative;
+    min-height:100px;
+    margin-bottom: 20px;
+}
+
+.dealer-item img {
+    background-repeat:no-repeat;
+    background-position-x: center;
+    width:100%;
+}
+
+.dealer-item .name {
+    width: 100%;
+    text-align:center;
+    background-color:rgba(0,0,0,.4);
+    position:absolute;
+    bottom:0;
+}

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div class="appPivot" data-win-control="WinJS.UI.Pivot" data-win-options="{ title: 'evopark' }">
+        <div class="garages" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Parkäuser' }">
+            <div class="itemTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="item">
+                    <h2 data-win-bind="textContent: name"></h2>
+                </div>
+            </div>
+            <div data-win-control="WinJS.UI.ListView"
+                 data-win-options="{
+                    itemDataSource: App.Model.garages.dataSource,
+                    itemTemplate:select('.itemTemplate'),
+                    layout: {type: WinJS.UI.ListLayout, orientation: 'vertical'}}">
+            </div>
+        </div>
+        <div class="activities" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Aktivitäten' }">
+            <div class="itemTemplate" data-win-control="WinJS.Binding.Template">
+                <div class="item">
+                    <h2 data-win-bind="textContent: name"></h2>
+                </div>
+            </div>
+            <div data-win-control="WinJS.UI.ListView"
+                 data-win-options="{
+                    itemDataSource: App.Model.activities.dataSource,
+                    itemTemplate:select('.itemTemplate'),
+                    layout: {type: WinJS.UI.ListLayout, orientation: 'vertical'}}">
+            </div>
+        </div>
+        <div class="account" data-win-control="WinJS.UI.PivotItem" data-win-options="{ header: 'Account' }">
+            <h2>Account info</h2>
+            <button>Anmelden</button>
+        </div>
+    </div>
+</body>
+</html>
