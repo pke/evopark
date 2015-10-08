@@ -5,12 +5,15 @@
 
     var _httpClient = null;
     function getHttpClientAsync() {
-        return _httpClient = WinJS.Promise.as({
+        if (_httpClient) {
+            return _httpClient;
+        }
+        return WinJS.Promise.as({
           headers: {
             "User-Agent": "evopark/0.1.0 (Windows Phone/10.0.1.0)",
+            "Accept": "application/json",
             "X-API-Key": "swaggerdoc_Iey6phie",
-            "Authorization": "Basic: cGhpbGs6Z0NVMVJBNktvQQ==",
-            "Accept": "application/json"
+            "Authorization": "Basic: cGhpbGs6Z0NVMVJBNktvQQ=="
           }
         });
         var httpClient = new Windows.Web.Http.HttpClient();
@@ -24,13 +27,18 @@
 
     function getJsonAsync(path) {
         return getHttpClientAsync().then(function(httpClient) {
-            var uri = /*new Windows.Foundation.Uri*/(baseUrl + path + ".json");
-            httpClient.url = uri;
-            httpClient.responseType = "json";
-            return WinJS.xhr(httpClient); //httpClient.getBufferAsync(uri);
-        }).then(function(response) {
-            var result = Windows.Security.Cryptography.CryptographicBuffer.convertBinaryToString(Windows.Security.Cryptography.BinaryStringEncoding.utf8, buffer);
-            return JSON.parse(result);
+          var uri = /*new Windows.Foundation.Uri*/(baseUrl + path + ".json");
+          httpClient.url = uri;
+          httpClient.responseType = "json";
+          return WinJS.xhr(httpClient);
+            //return httpClient.getBufferAsync(uri);
+        }).then(function(request) {
+          //var result = Windows.Security.Cryptography.CryptographicBuffer.convertBinaryToString(Windows.Security.Cryptography.BinaryStringEncoding.utf8, response);
+          if (typeof request.response === "string") {
+            return JSON.parse(request.response);
+          } else {
+            return request.response;
+          }
         }, function(error) {
             console.error(error);
             return WinJS.Promise.wrapError(error);
