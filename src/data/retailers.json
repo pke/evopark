@@ -1,0 +1,2395 @@
+[
+  {
+    "id": 5,
+    "name": "St. Antonius Apotheke",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/5_logo_url.png",
+    "description": "Als serviceorientierte Apotheke berät Sie das Team der St. Antonius-Apotheke in allen Fragen der Gesundheit kompetent, persönlich und nach aktuellem wissenschaftlichen Stand. Dabei bieten die Apotheke selbstverständlich nicht nur das klassische Sortiment, sondern auch kosmetische Produkte und Gesundheitsservices, mit denen Sie sich wohlfühlen und gesund bleiben.\nDie Pluspunkte der St. Antonius-Apotheke im Überblick: gut geschultes Beratungspersonal, Spezialisierung durch regelmäßige Fortbildungen und ein bereits Spektrum an Leistungen und Services: kostenloser Lieferservice für Oberkassel und Umgebung, Blutuntersuchungen (Zucker, Blutdruck), Reiseberatung zu Impfungen und Gesundheitsrisiken am Reiseziel u.v.m.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse bei einem Einkaufswert ab 20€ - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/5-st-antonius-apotheke",
+    "address": {
+      "id": 9,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Dominikanerstraße",
+      "building_nr": "12",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-18T17:30:57.003Z",
+      "updated_at": "2014-12-18T17:30:57.003Z"
+    },
+    "coordinates": {
+      "latitude": 51.2305,
+      "longitude": 6.75127
+    },
+    "opening_times": [
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "13:00"
+      },
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 11,
+    "name": "Bosa Kaffeesysteme",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/11_logo_url.png",
+    "description": "BOSA Kaffeesysteme ist ein Fachbetrieb für gewerblichen Kaffee und Kaffeevollautomaten mit langjähriger Erfahrung mit Hauptsitzt in Düsseldorf. Kunden in ganz Deutschland und Europa schätzen die Qualität und den individuellen Service. BOSA Kaffeesysteme möchte seinen Kunden mehr als einen hochwertigen und leckeren schwarzen Kaffee bieten. Das langjährige Fachwissen, gepaart mit den hochwertigen Produkten der Partnerunternehmen, ermöglicht es, Geschäftskunden für jeden Einsatzbereich und jeden Wunsch die passende Kaffeelösung zu bieten. Neben den zahlreichen Zertifizierungen bildet das Unternehmen seine Mitarbeiter ständig weiter aus.",
+    "rebate_action": null,
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/11_offer_image_url.jpg",
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/11-bosa-kaffeesysteme",
+    "address": {
+      "id": 100,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Karlstraße",
+      "building_nr": "96",
+      "additional": null,
+      "zip_code": "40210",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-02-24T14:08:42.416Z",
+      "updated_at": "2015-02-24T14:08:42.416Z"
+    },
+    "coordinates": {
+      "latitude": 51.22262,
+      "longitude": 6.79232
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "12:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "18:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 2,
+    "city_id": 1
+  },
+  {
+    "id": 44,
+    "name": "Foto Studio Reuther",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/44_logo_url.jpg",
+    "description": "Das Fotostudio Reuther inmitten der wunderschönen Stadt an Rhein und Mosel, mitten in der Innenstadt, zaubert Ihnen ein Lächeln in das Gesicht.\nOb Bewerungs- oder Passfotos, ein Portrait von Ihnen selbst oder Ihren Liebsten. In Szene, das können wir seit Generationen.\n\nSabine & Sarah Reuther sowie das Team des Fotostudio lädt Sie zum verweilen und wohlfühlen ein.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/44-foto-studio-reuther",
+    "address": {
+      "id": 3759,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Schloßstraße",
+      "building_nr": "6",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-13T12:15:59.781Z",
+      "updated_at": "2015-11-13T12:15:59.781Z"
+    },
+    "coordinates": {
+      "latitude": 50.3565,
+      "longitude": 7.59746
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "13:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "18:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 11,
+    "city_id": 2
+  },
+  {
+    "id": 1,
+    "name": "HALFMANN Pelzmanufaktur",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/1_logo_url.jpg",
+    "description": "1932 gegründet ist das in der dritten Generation von Kürschnermeister Guido Halfmann und seiner Frau Anja geführte innovative Familienunternehmen die erstklassige Adresse für hochwertige und trendige Kreationen. Für die Eigenkreationen aus Pelz, Lammfell und Leder und Kombinationen aus Pelz mit Leder, Cashmere und Seide ist HALFMANN Pelzmanufaktur in Düsseldorf und Umgebung und weit über die Grenzen von Nordrhein-Westfalen bekannt.",
+    "rebate_action": "",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/1_offer_image_url.jpg",
+    "offer_image_link_url": "http://halfmann-pelzmanufaktur.de/",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/1-halfmann-pelzmanufaktur",
+    "address": {
+      "id": 5,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Luegallee",
+      "building_nr": "49",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-18T15:26:25.177Z",
+      "updated_at": "2014-12-18T15:26:25.177Z"
+    },
+    "coordinates": {
+      "latitude": 51.23139,
+      "longitude": 6.75578
+    },
+    "opening_times": [
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "13:00"
+      },
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 39,
+    "name": "Carl Willy Müller e.K. Juwelier und Goldschmied",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/39_logo_url.png",
+    "description": "CWM führt Kollektionen der schönsten und feinsten Schmuckmarken. Aber auch Individualist(inn)en machen sie glücklich: Denn die große Leidenschaft der Müllers sind Diamanten und Edelsteine. Durch seine weltweit guten Kontakte hat Juwelier und Edelsteinfachmann Michael Müller eine kostbare Sammlung zusammengetragen, die in ganz Rheinland-Pfalz ihresgleichen sucht. In der eigenen Goldschmiede entstehen aus den schönsten Steinen phantastische, wertvolle  Kleinserien und Unikate.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/39-carl-willy-mller-e-k-juwelier-und-goldschmied",
+    "address": {
+      "id": 3633,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Schlossstraße",
+      "building_nr": "47",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T16:53:19.703Z",
+      "updated_at": "2015-11-25T13:41:41.917Z"
+    },
+    "coordinates": {
+      "latitude": 50.35689,
+      "longitude": 7.59374
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "16:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 27,
+    "name": "AXA Regionalvertretung Michael Seidel",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/27_logo_url.png",
+    "description": "Mit den Angeboten der DBV Deutsche Beamtenversicherung hat die DBV & AXA Regionalvertretung Michael Seidel in Düsseldorf eine breite Palette von genau auf Sie und Ihren Bedarf zugeschnittenen Versicherungslösungen. Als Spezialisten für den Öffentlichen Dienst informieren wir Sie gerne über die umfangreichen Leistungen der DBV. Sprechen Sie uns an!",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/27-axa-regionalvertretung-michael-seidel",
+    "address": {
+      "id": 1875,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Hüttenstr.",
+      "building_nr": "4",
+      "additional": null,
+      "zip_code": "40215",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-09-25T18:40:37.219Z",
+      "updated_at": "2015-09-25T18:40:37.219Z"
+    },
+    "coordinates": {
+      "latitude": 51.218754,
+      "longitude": 6.780566
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "17:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "17:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 40,
+    "name": "Kargl Schreibkultur",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/40_logo_url.jpg",
+    "description": "",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/40-kargl-schreibkultur",
+    "address": {
+      "id": 3636,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Am Plan",
+      "building_nr": "26",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T17:59:24.513Z",
+      "updated_at": "2015-11-11T17:59:24.513Z"
+    },
+    "coordinates": {
+      "latitude": 50.36014,
+      "longitude": 7.59558
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 10,
+    "name": "A&A Digitalprint",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/10_logo_url.jpg",
+    "description": "Ein Unternehmen, das auf Dauer erfolgreich sein möchte, muss eigentlich nur eins tun: immer einen großen Schritt voraus sein. A&A Digitalprint marschiert deshalb seit 22 Jahren ganz vorne  mit, was Technik-Investitionen, Know-how und Qualität betrifft. A&A Digitalprint bieten erstklassige Druckergebnisse und innovative Serviceangebote. Besonders bequem für Unternehmen: Mit dem umfassenden Leistungsportfolio kann das fünfzehnköpfige Team alle Ihre Druckwünsche schnell und aus einer Hand umsetzen. Erwarten Sie individuelle, freundliche und vielsprachige Beratung und die passende Lösung für jeden Ihrer Wünsche.",
+    "rebate_action": "",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/10_offer_image_url.jpg",
+    "offer_image_link_url": "http://aa-digitalprint.de/",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/10-a-a-digitalprint",
+    "address": {
+      "id": 96,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Karlstraße",
+      "building_nr": "31",
+      "additional": null,
+      "zip_code": "40210",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-02-24T09:43:05.565Z",
+      "updated_at": "2015-11-25T13:37:02.859Z"
+    },
+    "coordinates": {
+      "latitude": 51.22097,
+      "longitude": 6.79079
+    },
+    "opening_times": [
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "16:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "19:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "08:30",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 2,
+    "city_id": 1
+  },
+  {
+    "id": 26,
+    "name": "AXA Hauptvertretung Marc Oliver Heckers",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/26_logo_url.png",
+    "description": "Die AXA \\ DBV Agentur Heckers wurde 1968 von Harald Heckers in Düsseldorf gegründet und ist heute eine der ältesten Agenturen im Umkreis und wird aktuell geleitet von Marc-Oliver Heckers.\r\n\r\nDie Generationenagentur steht mit Ihrer Gründung und mit Ihrem Namen in Düsseldorf und dem Rhein-Kreis-Neuss für exzellenten Service, Beständigkeit und höchste Kompetenz rund um das Thema Versicherungen und Finanzen.\r\n\r\nWir sind Spezialisiert auf alle Sparten rund um das Thema Firmenversicherung / Gesellschafter Geschäftsführer Versorgung und dem Privatkundengeschäft.\r\n\r\n\r\nJeden Kunden, mit unserer Dienstleistung empfehlenswert zu begeistern, das ist unser Anspruch!",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/26-axa-hauptvertretung-marc-oliver-heckers",
+    "address": {
+      "id": 1874,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Hüttenstr.",
+      "building_nr": "4",
+      "additional": null,
+      "zip_code": "40215",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-09-25T18:33:10.815Z",
+      "updated_at": "2015-09-25T18:33:10.815Z"
+    },
+    "coordinates": {
+      "latitude": 51.218761,
+      "longitude": 6.780829
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "16:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "16:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "16:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "16:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "16:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "16:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 38,
+    "name": "PIPE HOUSE",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/38_logo_url.png",
+    "description": "Tradition seit 80 Jahren!\n\nZIGARREN ERNST, gegründet 1933 wurde die die Firma zu einem führenden Tabakwarengroßhandel und Automatenaufstellerunternehmen ausgebaut.\n\nDas Pipe House Team freut sich, Ihnen als Ihre Genussvermittler mit Rat und Tat zur Verfügung zu stehen.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/38-pipe-house",
+    "address": {
+      "id": 3632,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Jesuitengasse",
+      "building_nr": "1",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T16:42:23.355Z",
+      "updated_at": "2015-11-11T16:42:23.355Z"
+    },
+    "coordinates": {
+      "latitude": 50.36067,
+      "longitude": 7.59743
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:30",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 10,
+    "city_id": 2
+  },
+  {
+    "id": 12,
+    "name": "Müller & Böhm - Buchhandlung",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/12_logo_url.png",
+    "description": "Die traditionsreiche Literaturhandlung im Heine Haus. Das von den beiden Eigentümern Herrn Müller und Frau Böhm geführte Geschäft überzeugt durch seine literarische Auswahl und die überaus fachkundige Beratung. Das bereite Veranstaltungsprogramm macht die Buchhandlung zu etwas ganz besonderem - Hier lesen neben Nobelpreisträger, viele aufstrebende Autoren.",
+    "rebate_action": "",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/12_offer_image_url.jpg",
+    "offer_image_link_url": "http://www.literaturmueller.de/lesungen.html",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/12-muller-bohm-buchhandlung",
+    "address": {
+      "id": 229,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Bolkerstraße",
+      "building_nr": "53",
+      "additional": null,
+      "zip_code": "40213",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-03-30T14:54:48.515Z",
+      "updated_at": "2015-03-30T14:54:48.515Z"
+    },
+    "coordinates": {
+      "latitude": 51.22618,
+      "longitude": 6.77491
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 3,
+    "city_id": 1
+  },
+  {
+    "id": 36,
+    "name": "Schilling Automobile GmbH",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/36_logo_url.jpg",
+    "description": "",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/36-schilling-automobile-gmbh",
+    "address": {
+      "id": 3630,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Andernacher Straße",
+      "building_nr": "232",
+      "additional": null,
+      "zip_code": "56070",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T16:23:15.938Z",
+      "updated_at": "2015-11-25T13:39:09.927Z"
+    },
+    "coordinates": {
+      "latitude": 50.38028,
+      "longitude": 7.58093
+    },
+    "opening_times": [],
+    "todays_opening_times": {
+      "opens_at": null,
+      "closes_at": null
+    },
+    "availability": "closed",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 41,
+    "name": "Le Coiffeur Hair & Beauty Salon",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/41_logo_url.jpg",
+    "description": "Le Coiffeur steht für professionelles Frisieren, aktuelles Styling und besonderen Service, rund um Ihr persönliches Wohlbefinden.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/41-le-coiffeur-hair-beauty-salon",
+    "address": {
+      "id": 3638,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Clemenstraße",
+      "building_nr": "26-30",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T18:07:18.754Z",
+      "updated_at": "2015-11-25T13:40:20.001Z"
+    },
+    "coordinates": {
+      "latitude": 50.35935,
+      "longitude": 7.59695
+    },
+    "opening_times": [
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "18:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 18,
+    "name": "BoConcept",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/18_logo_url.png",
+    "description": "BoConcept, 1952 in Dänemark gegründet, steht für Designmöbel mit skandinavischem Flair, die nach individuellen Wünschen aus frei kombinierbaren Elementen zusammengestellt werden. Die Inneneinrichtung von BoConcept wird für eine Zielgruppe entwickelt, die Wert auf Design, Lifestyle und ein urbanes Lebensgefühl legt. Besondere Stärken von BoConcept sind die große Auswahl an multifunktionalen Möbeln und die Expertise als erfahrener Einrichtungsberater. Zudem bieten wir auch eine professionelle Einrichtungsberatung und Planung in Ihren 4 Wänden als  „Homeberatung“ an. Gerne stehen wir Ihnen bei Rückfragen jederzeit zur Verfügung und freuen uns auf Ihren Besuch.",
+    "rebate_action": null,
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/18_offer_image_url.png",
+    "offer_image_link_url": "http://www.boconcept-experience.de/",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/18-boconcept",
+    "address": {
+      "id": 998,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Grünstraße",
+      "building_nr": "15",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-07-15T14:37:58.684Z",
+      "updated_at": "2015-08-18T15:28:10.119Z"
+    },
+    "coordinates": {
+      "latitude": 51.22081,
+      "longitude": 6.78069
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 17,
+    "name": "Carsch-Haus",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/17_logo_url.png",
+    "description": "Entdecken Sie Einkaufsvergnügen auf 6 Etagen!\nDas einzigartige Premium Warenhaus finden Sie im Herzen von Düsseldorf - zwischen Altstadt und Königsallee. 1915 von Paul Carsch gegründet, ist es seitdem beliebter Anziehungspunkt für Gäste, Touristen und Düsseldorfer. \nHeute bietet es internationale Designer und Marken in den Bereichen Fashion, Lifestyle und Design unter einem Dach.Es erwarten Sie die neuesten Modetrends, ausgesuchte Geschenkideen, ein Beauty Departement mit eigener Beautylounge und kulinarische Köstlichkeiten aus aller Welt.\n\nHerzlich willkommen!\nService Telefon: 0800 – 1000 209",
+    "rebate_action": "Wir laden Sie bei Ihrem Besuch in unserem Haus zu einem original italienischen Espresso an der Espressobar\nin der Delikatessa im Basement ein - Den Gutschein erhalten Sie am Service Point im UG mit dem Stichwort evopark.",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/17_offer_image_url.jpg",
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie am Service Point im UG - Fragen Sie einfach nach.\n\n// Ab einem Einkaufswert von 100€ erhalten Sie eine 5€ Gutschrift.",
+    "website_url": "/de/retailer/17-carsch-haus",
+    "address": {
+      "id": 570,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Heinrich-Heine-Platz",
+      "building_nr": "1",
+      "additional": null,
+      "zip_code": "40213",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-06-11T16:15:11.553Z",
+      "updated_at": "2015-06-11T16:15:11.553Z"
+    },
+    "coordinates": {
+      "latitude": 51.22527,
+      "longitude": 6.77611
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "20:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:30",
+      "closes_at": "20:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 6,
+    "city_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Thomas Cook Reisebüro ",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/2_logo_url.jpg",
+    "description": "Traumhafte Urlaubsangebote aller namhaften Reiseveranstalter: Kreuzfahrten, Flüge, Hotels, All Inclusive, Ferienwohnungen, Autoreisen, Last Minute u.v.m.\nSuchen Sie Insider-Tipps für Formentera? Lieben Sie Club-Urlaub a la Aldiana oder Robinson? Möchten Sie mit der neuen \"Mein Schiff3\" von TUI in See stechen? Oder gemeinsam in der Gruppe fremde Kulturen entdecken? Dann sind Sie bei Thomas Cook richtig!\nEgal ob Sie alleine, zu zweit oder mit der Familie verreisen möchten, das Thomas Cook Team berät Sie gerne und kompetent und verfügt über langjährige Berufs- und Reiseerfahrungen, so dass sie auch für Sie den passenden Traumurlaub finden.",
+    "rebate_action": "",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/2_offer_image_url.jpg",
+    "offer_image_link_url": "http://www.thomascook.de/reisebuero/duesseldorf-luegallee/LastMinuteInfo",
+    "rebating_description": "Gutschriftkarten erhalten Sie bei Ihrem Berater - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/2-thomas-cook-reiseburo",
+    "address": {
+      "id": 6,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Luegallee",
+      "building_nr": "53",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-18T16:48:48.307Z",
+      "updated_at": "2014-12-18T16:48:48.307Z"
+    },
+    "coordinates": {
+      "latitude": 51.23139,
+      "longitude": 6.75547
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "13:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:30",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 20,
+    "name": "Roche Bobois",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/20_logo_url.png",
+    "description": "Das Französische Möbelhaus Roche Bobois entwirft und kreiert Möbel, die eine bestimmte Lebensart zum Ausdruck bringen. Die beiden Kollektionen der Marke Les Contemporains und Les Nouveaux Classiques stehen für dieses Konzept und die verschiedenen daraus hervorgehenden Interpretationen. Roche Bobois hat alle 6 Monate eine neue exklusive Kollektion, die auf ästhetischer und technologischer Innovation beruht.\nJedes Modell dieser Kollektionen ist das Ergebnis einer engen Zusammenarbeit von Roche Bobois, Designern und Herstellern. Eben dieses Konzept ist es, was die Stärke und Originalität der Marke ausmacht. \nRoche Bobois leistet einen Beitrag zur Bewahrung von Know-how, indem das Unternehmen sämtliche seiner Kollektionen in Europa herstellen lässt. Roche Bobois war auch einer der Vorreiter in Sachen Öko-Konzeption.\n \nL’art de vivre by Roche Bobois",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/20-roche-bobois",
+    "address": {
+      "id": 1244,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Grünstraße",
+      "building_nr": "15",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-08-07T13:06:38.616Z",
+      "updated_at": "2015-08-07T13:06:38.616Z"
+    },
+    "coordinates": {
+      "latitude": 51.22124,
+      "longitude": 6.78088
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 42,
+    "name": "Tanzschule \"La Vie\"",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/42_logo_url.png",
+    "description": "Die Tanzschule La vie befindet sich mitten im Herzen von Koblenz. Ob jung oder alt, Paarkurs oder Zumba, für jeden ist ein passender Kurs dabei. Getreu nach dem Motto: Moderne und Tradition. Mit Leichtigkeit und Spass die Kunst des Tanzens erlernen.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/42-tanzschule-la-vie",
+    "address": {
+      "id": 3639,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Clemenstraße",
+      "building_nr": "26-30",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T18:11:37.727Z",
+      "updated_at": "2015-11-11T18:11:37.727Z"
+    },
+    "coordinates": {
+      "latitude": 50.35951,
+      "longitude": 7.59668
+    },
+    "opening_times": [],
+    "todays_opening_times": {
+      "opens_at": null,
+      "closes_at": null
+    },
+    "availability": "closed",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 31,
+    "name": "Konzept Maßbekleidung",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/31_logo_url.jpg",
+    "description": "Individuelle Schnitte, perfekter Service und ein gutes Preis-Leistungs-Verhältnis.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/31-konzept-mabekleidung",
+    "address": {
+      "id": 3624,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Koblenzer Straße",
+      "building_nr": "38-40",
+      "additional": null,
+      "zip_code": "56073",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T14:52:21.425Z",
+      "updated_at": "2015-11-25T13:36:32.264Z"
+    },
+    "coordinates": {
+      "latitude": 50.3521,
+      "longitude": 7.56021
+    },
+    "opening_times": [],
+    "todays_opening_times": {
+      "opens_at": null,
+      "closes_at": null
+    },
+    "availability": "closed",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 19,
+    "name": "Betten Hästens",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/19_logo_url.png",
+    "description": "",
+    "rebate_action": "Special Edition Ocean Blue\n\nExklusiv vom 1. September bis 31. Dezember 2015\n\nDie Hästens Special Edition Ocean Blue ist ein Quell der Harmonie und Frische.\nIhr Design ist von der Ursprünglichkeit der schwedischen Schärenlandschaft inspiriert, die in Jahrtausenden von den Kräften der Natur geformt wurde.\nMit sanfter Struktur- und Farbgebung, subtilen Details und weichen Rundungen wird jedes Bett individuell von Hand und ausschließlich unter Verwendung erlesenster Naturmaterialien gefertigt.\nZu unserer Special Edition erhalten Sie exklusiv das Kopfteil \"David\" (Höhe: 95cm) gratis dazu, für erholsames, sanften Schlaf - Nacht für Nacht.",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/19_offer_image_url.png",
+    "offer_image_link_url": "http://www.haestens-betten.de",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/19-betten-hastens",
+    "address": {
+      "id": 1234,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Berliner Allee",
+      "building_nr": "27-29",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-08-06T17:37:54.578Z",
+      "updated_at": "2015-08-06T17:37:54.578Z"
+    },
+    "coordinates": {
+      "latitude": 51.22329999999999,
+      "longitude": 6.782289999999989
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:301",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "16:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:30",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 32,
+    "name": "Restaurant Deutscher Kaiser",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/32_logo_url.png",
+    "description": "Direkt am idyllischen Moselufer gelegen, heißt Sie das älteste und imposanteste Gasthaus von Koblenz herzlich Willkommen. Frische, hausgemachte Delikatessen und ausgewählte Weine in einer einzigartigen Atmosphäre aus spätgotischer Romantik und moderner Architektur - das ist der \"Deutsche Kaiser\"\nGenießen Sie kleine Leckereien in den Mittagsstunden, eine hausgemachte Küchenauswahl an den Nachmittagen, erlesene Weinsorten oder ein frisch gezapftes Bier zum Abendessen.\nBei uns sind alle Gäste Kaiser.",
+    "rebate_action": "Unser wechselndes, saisonales Mittagsmenü.\n\nVon Dienstag bis Samstag von 12 Uhr bis 14 Uhr bieten wir zusätzlich zu unserer Speisekarte ein kleines, wechselndes Mittagsmenü mit 2 Gängen an. Wir bitten um Ihr Verständnis, dass an Sonn- und Feiertagen das Angebot ausgeschlossen ist.",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/32_offer_image_url.png",
+    "offer_image_link_url": null,
+    "rebating_description": "Bei einem Mindestverzehr von  50,00 schenken wir Ihnen  2,00 parken. (nicht mit Geschenkgutscheinen oder anderen Aktionen kombinierbar)",
+    "website_url": "/de/retailer/32-restaurant-deutscher-kaiser",
+    "address": {
+      "id": 3626,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Kastorstraße",
+      "building_nr": "3",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T15:50:36.184Z",
+      "updated_at": "2015-11-25T13:36:52.038Z"
+    },
+    "coordinates": {
+      "latitude": 50.36258,
+      "longitude": 7.59845
+    },
+    "opening_times": [
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "12:00",
+        "closes_at": "23:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "12:00",
+      "closes_at": "23:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 10,
+    "city_id": 2
+  },
+  {
+    "id": 43,
+    "name": "Brillen Becker",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/43_logo_url.jpg",
+    "description": "Brillen-Becker,\nein starker Partner für ihre Augen\n1925 eröffnete Augenoptikermeister Andreas Becker seinen augenoptischen Betrieb in der Koblenzer Casinostraße.\nDie Brille hat sich in den letzten Jahren immer mehr zum modischen Accessoire gewandelt. Es gibt kaum ein internationales Modelabel, das keine Brillen designt. Die Computertechnik hat in vielen Bereichen der Augenoptik Einzug gehalten, so erhalten die Brillengläser in den Werkstätten der Firma Brillen Becker den letzten Schliff auf modernsten CNC-gesteuerten Schleifmaschinen. Aber so sehr sich die Augenoptik auch gewandelt hat, so steht Brillen Becker als Synonym für hervorragende Qualität in Verarbeitung und Beratung – und das seit  90 Jahren.",
+    "rebate_action": null,
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/43_offer_image_url.jpg",
+    "offer_image_link_url": "http://www.bb-ko.de/brillen-becker/index.php?go=entry&id=236&fsel=angebote",
+    "rebating_description": null,
+    "website_url": "/de/retailer/43-brillen-becker",
+    "address": {
+      "id": 3640,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Schloßstraße",
+      "building_nr": "23",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T18:26:43.837Z",
+      "updated_at": "2015-11-11T18:26:43.837Z"
+    },
+    "coordinates": {
+      "latitude": 50.3565,
+      "longitude": 7.596
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "16:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:30",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 16,
+    "name": "INTERSPORT Voswinkel",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/16_logo_url.png",
+    "description": "In vorweihnachtlicher gemütlicher Atmosphäre bei Getränken, Gebäck und süßen Überraschungen findet am 19.12.2015 ab 15:00 Uhr \ndie Ziehung der Gewinner der großen Weihnachtsverlosung statt. Die Teilnahmekarten sind ab 31.10.2015 in der Filiale KÖ Galerie erhältlich \nund müssen bis spätestens zum 18.12.2015 auch dort wieder eingereicht werden.",
+    "rebate_action": "",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/16_offer_image_url.jpg",
+    "offer_image_link_url": "http://www.intersport-voswinkel.de/aktionen/events-koe-galerie",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.\n\n// Ab 50 € Einkaufswert schenken wir Dir 1 Stunde parken.\n// Ab 250 € Einkaufswert schenken wir Dir 5 Stunden parken.\n// Ab 500 € Einkaufswert schenken wir Dir 10 Stunden parken.",
+    "website_url": "/de/retailer/16-intersport-voswinkel",
+    "address": {
+      "id": 569,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Königsallee",
+      "building_nr": "60",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-06-11T16:10:42.530Z",
+      "updated_at": "2015-06-11T16:10:42.530Z"
+    },
+    "coordinates": {
+      "latitude": 51.22212,
+      "longitude": 6.78125
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "20:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 37,
+    "name": "Commes GmbH & Co. KG",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/37_logo_url.png",
+    "description": "Commes in Koblenz blickt auf eine traditionsreiche Firmengeschichte seit 1848 zurück. Das mittelständische Unternehmen im Herzen der Koblenzer Altstadt wird seit den 1990er Jahren schon in dritter Generation persönlich vom Inhaber geführt und zählt heute zu den ältesten Firmen der Koblenzer Geschäftswelt. \n\nSpezialisiert auf die große Welt des Design rund um Tisch und Küche finden Sie bei Commes alle führenden nationalen und internationalen Marken. \n\nEdles Porzellan und hochwertiges Glas, ein erlesenes Besteckangebot, funktionale Produkte rund ums Kochen sowie trendige Accessoires und außergewöhnliche Geschenkideen präsentieren Ihnen 20 aufmerksame Mitarbeiter auf 1000 qm Verkaufsfläche\n\nEngagiert, fachkundig, freundlich.",
+    "rebate_action": null,
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/37_offer_image_url.png",
+    "offer_image_link_url": "http://www.commes.de/angebote/",
+    "rebating_description": null,
+    "website_url": "/de/retailer/37-commes-gmbh-co-kg",
+    "address": {
+      "id": 3631,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Koblenz",
+      "street": "Entenpfuhl",
+      "building_nr": "23-25",
+      "additional": null,
+      "zip_code": "56068",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-11-11T16:25:44.088Z",
+      "updated_at": "2015-11-11T16:25:44.088Z"
+    },
+    "coordinates": {
+      "latitude": 50.36033,
+      "longitude": 7.59668
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 14,
+    "city_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Dominikus Apotheke",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/3_logo_url.png",
+    "description": "Neben einem reichhaltigen Arzneimittel- und Zusatzsortiment und den üblichen Apothekendienstleistungen zeichnet sich die Dominikus-Apotheke vor allem durch ein breites Spektrum an Zusatzleistungen aus: Alternative Medizin (Biochemie / Schüßler-Salze, Homöopathie), pflegende Kosmetik (Avène, Eubos, Eucerin, Frei, La Roche Posay, Neutrogena, Olivenölpflege (Medipharma), Vichy), spezielle Beratungsgebiete (Biochemie / Schüßler-Salze, Ernährung, Homöopathie, Inkontinenzversorgung (allgemein), Kosmetik), Tests (BMI (Body-Mass-Index), Blutdruckmessung), Verleih (Babywaage, Inhalatoren, Medela-Milchpumpen, elektr. Milchpumpen), Überprüfung (Hausapotheke, Kfz-Verbandkasten, Reiseapotheke)\nDas kompetente Personal berät Sie gerne in den Sprachen Englisch, Französisch und Japanisch.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse bei einem Einkaufswert ab 20€ - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/3-dominikus-apotheke",
+    "address": {
+      "id": 7,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Luegallee",
+      "building_nr": "97",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-18T17:28:07.227Z",
+      "updated_at": "2014-12-18T17:28:07.227Z"
+    },
+    "coordinates": {
+      "latitude": 51.23131,
+      "longitude": 6.75005
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "18:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "13:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "08:30",
+      "closes_at": "18:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 7,
+    "name": "HWM Hairstyling",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/7_logo_url.png",
+    "description": "Der ausgezeichnete TOP SALON in Düsseldorf-Oberkassel.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/7-hwm-hairstyling",
+    "address": {
+      "id": 19,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Oberkasseler Straße",
+      "building_nr": "74",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-22T08:33:06.340Z",
+      "updated_at": "2014-12-22T08:33:06.340Z"
+    },
+    "coordinates": {
+      "latitude": 51.23099,
+      "longitude": 6.75642
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "08:00",
+        "closes_at": "14:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Parfümerie Nagelschmitz",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/9_logo_url.png",
+    "description": "Die Privatparfümerie Nagelschmitz im Herzen von Oberkassel ist seit rund 40 Jahren die erste Adresse für außergewöhnliche und exklusive Düfte aus aller Welt, Pflegeprodukte und individuelle Beratung auf höchstem Niveau. Sowohl die langjährige Zusammenarbeit mit allen führenden Anbietern auf dem Kosmetikmarkt als auch die ständige Weiterbildung der versierten Mitarbeiter wird ganz in den Dienst des Kunden gestellt.\n\nParfumindividualisten finden hier ihr persönliches, unverwechselbares »Duftgewand«, das die Persönlichkeit ihres Trägers auf das Schönste unterstreicht. Gemeinsam mit passionierten Fachleuten lassen sich auch die kühnsten Duftvorstellungen umsetzen.\n\nDer Schönheits- und Pflegereich »Mise en Beauté« bietet maßgeschneiderte Gesichtskosmetik-, Hand-, Fuß- und Ganzkörperbehandlungen. Leitlinie ist die perfekte Pflege der Haut und die Entführung in eine Welt des Wohlbefindens und der Entspannung. Nehmen Sie sich eine Auszeit vom Alltag! Das Team der Privatparfümerie Nagelschmitz freut sich auf Sie!",
+    "rebate_action": "Gönnen Sie sich unser Rundum-Pflegeprogramm »Die kleine Auszeit«, unser Vorteils-Gesamtpaket, das eine ausgedehnte, intensive Behandlung für Gesicht, Hände und Füße  umfasst, und starten Sie perfekt gepflegt in den Herbst. Verwöhnen in seiner schönsten Form!\nUnser Highlight für EVOPARK-Kunden: Bei Buchung dieser Behandlung (Dauer 180 min, Preis 110 Euro) im September/Oktober 2015 bekommen Sie von uns einen samtweichen „veganen“ Rougepinsel in Wert von 15 Euro geschenkt!",
+    "offer_image_url": "https://az711989.vo.msecnd.net/retailer-stores/9_offer_image_url.png",
+    "offer_image_link_url": "http://www.parfuemerie-nagelschmitz.de/",
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/9-parfumerie-nagelschmitz",
+    "address": {
+      "id": 94,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Dominikanerstraße",
+      "building_nr": "2",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-02-20T15:08:14.369Z",
+      "updated_at": "2015-02-20T15:08:14.369Z"
+    },
+    "coordinates": {
+      "latitude": 51.23106,
+      "longitude": 6.75179
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "15:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "19:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "09:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 23,
+    "name": "Physiotherapie Schönrock",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/23_logo_url.png",
+    "description": "Ihre Praxis für private Physiotherapie im Herzen Düsseldorfs.\n\nIhr Wohlbefinden ist uns eine Herzensangelegenheit! Deshalb bündeln wir in der entspannten Atmosphäre unserer Praxis viele verschiedene Kompetenzen und Qualifikationen, um Ihnen für jedes Anliegen genau den richtigen Ansprechpartner zur Seite stellen zu können.\nGanz gleich, wo der sprichwörtliche Schuh Sie drückt, und egal, ob es nun tatsächlich ein Druckschmerz oder eher ein scharfes Stechen im Rücken ist, das einfach nicht verschwinden will: Wenn Sie Bewegungsfreiheit, Schmerzfreiheit und Lebensqualität schmerzlich vermissen, sind Sie bei uns in den besten Händen!",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/23-physiotherapie-schonrock",
+    "address": {
+      "id": 1803,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Grünstraße",
+      "building_nr": "23",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-09-21T09:44:56.163Z",
+      "updated_at": "2015-09-21T09:44:56.163Z"
+    },
+    "coordinates": {
+      "latitude": 51.22134,
+      "longitude": 6.78149
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "08:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "08:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "08:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "08:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "13:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "08:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 25,
+    "name": "AXA Bezirksdirektion Marina Zajac",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/25_logo_url.png",
+    "description": "Die AXA Bezirksdirektion Marina Zajac in Düsseldorf berät Sie umfassend zu den maßgeschneiderten Versicherungslösungen der AXA. Als zuverlässiger AXA Partner für Versicherungen in Düsseldorf und Umgebung unterstützen wir Sie bei wichtigen Entscheidungen rund um Ihren Versicherungsschutz. Ihre AXA Bezirksdirektion Marina Zajac in Düsseldorf berät Sie gerne. Nehmen Sie Kontakt mit uns auf.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/25-axa-bezirksdirektion-marina-zajac",
+    "address": {
+      "id": 1873,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Hüttenstr. ",
+      "building_nr": "4",
+      "additional": null,
+      "zip_code": "40215",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-09-25T17:25:42.609Z",
+      "updated_at": "2015-09-25T17:25:42.609Z"
+    },
+    "coordinates": {
+      "latitude": 51.218541,
+      "longitude": 6.780836
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "08:30",
+      "closes_at": "17:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 5,
+    "city_id": 1
+  },
+  {
+    "id": 8,
+    "name": "Faible 49",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/8_logo_url.jpg",
+    "description": "„Faible\" steht für Vorlieben – die zeigen sich im Store auf der Luegallee in schicker Mode, edlen Farben und Materialien. Vieles im Angebot des Geschwisterpaares Drina Krolo und Rafaela Weber könnte man sofort als Lieblingsstück zur Seite legen, denn alles ist sorgsam ausgewählt und alle Teile lassen sich irgendwie gut miteinander kombinieren, egal ob als Freizeit- oder Business-Look.\nDie ausgesuchten Labels kommen von jungen deutschen Designern aus Hamburg und Stuttgart, aber auch von einem Kaschmirhersteller, der ausschließlich mit bestem Ziegenhaar aus der Mongolei arbeitet. Bei Faible 49 wird viel Wert auf Nachhaltigkeit und zeitlose Eleganz gelegt.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": "Gutschriftkarten erhalten Sie an der Kasse - Fragen Sie einfach nach.",
+    "website_url": "/de/retailer/8-faible-49",
+    "address": {
+      "id": 20,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Luegallee ",
+      "building_nr": "49",
+      "additional": null,
+      "zip_code": "40545",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2014-12-22T08:37:42.209Z",
+      "updated_at": "2014-12-22T08:37:42.209Z"
+    },
+    "coordinates": {
+      "latitude": 51.23139,
+      "longitude": 6.75566
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "11:00",
+        "closes_at": "15:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:00",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 1,
+    "city_id": 1
+  },
+  {
+    "id": 15,
+    "name": "Montblanc Boutique Düsseldorf",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/15_logo_url.png",
+    "description": "Seit jeher ist der weiße Stern Symbol für höchste europäische Handwerkskunst und Eleganz. Heute ziert er neben Schreibgeräten und Lederwaren unter anderem auch Uhren, Schmuck und exklusive Accessoires. Entdecken Sie in der Montblanc Boutique Düsseldorf perfekte Begleiter für jeden Anlass.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/15-montblanc-boutique-dusseldorf",
+    "address": {
+      "id": 507,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Königsallee",
+      "building_nr": "22",
+      "additional": null,
+      "zip_code": "40212",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-06-08T16:04:34.707Z",
+      "updated_at": "2015-06-08T16:04:34.707Z"
+    },
+    "coordinates": {
+      "latitude": 51.22508,
+      "longitude": 6.7796
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "19:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "10:30",
+        "closes_at": "18:00"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "10:30",
+      "closes_at": "19:00"
+    },
+    "availability": "open",
+    "nearest_garage_id": 6,
+    "city_id": 1
+  },
+  {
+    "id": 24,
+    "name": "Aqua GYM Düsseldorf",
+    "logo_url": "https://az711989.vo.msecnd.net/retailer-stores/24_logo_url.png",
+    "description": "Wir bieten Dir exklusives Aqua Fitness für jedes Level.\n \nOb Anfänger, Fortgeschritten oder auch Schwanger wir haben den richtigen Kurs für Dich.\nHochwertige Wasserkurse für Babys ab 3 Monaten.\nUnsere professionelle Schwimmschule bietet hochwertige Wassergewöhnung für Bambinis.\nUnsere Pinguin und Seepferdchen Kurse starten bereits ab 4 Jahre.\n\nUnsere Aqua Fitness Kurse sind ebenfalls anerkannt nach § 20SGB V und werden von den Krankenkassen bezuschusst.",
+    "rebate_action": null,
+    "offer_image_url": null,
+    "offer_image_link_url": null,
+    "rebating_description": null,
+    "website_url": "/de/retailer/24-aqua-gym-dusseldorf",
+    "address": {
+      "id": 1806,
+      "user_id": null,
+      "default": null,
+      "first_name": null,
+      "last_name": null,
+      "city": "Düsseldorf",
+      "street": "Glockenstraße",
+      "building_nr": "24",
+      "additional": null,
+      "zip_code": "40476",
+      "country_code": "de",
+      "deleted_at": null,
+      "gender": null,
+      "academic_title": null,
+      "phone_number": "",
+      "created_at": "2015-09-21T10:12:34.049Z",
+      "updated_at": "2015-09-21T10:12:34.049Z"
+    },
+    "coordinates": {
+      "latitude": 51.24579,
+      "longitude": 6.78621
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "21:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:30",
+        "closes_at": "18:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "08:30",
+        "closes_at": "17:30"
+      }
+    ],
+    "todays_opening_times": {
+      "opens_at": "08:30",
+      "closes_at": "21:30"
+    },
+    "availability": "open",
+    "nearest_garage_id": 7,
+    "city_id": 1
+  }
+]

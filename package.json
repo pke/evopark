@@ -1,0 +1,35 @@
+{
+  "name": "evopark",
+  "version": "1.0.0",
+  "description": "the evopark app",
+  "author": "evopark GmbH",
+  "license": "MIT",
+  "main": "src/index.js",
+   "scripts": {
+    "start": "babel-node server.js",
+    "bundle:prod": "browserify site.js -t babelify -g envify -o bundle.js",
+    "watch": "npm run watch:server & npm run watch:bundle & wait",
+    "watch:server": "nodemon --exec babel-node --ignore bundle.js -- server.js",
+    "watch:bundle": "watchify src/index.js -v -t babelify -g envify -p livereactload -o bundle.js"
+  },
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.0",
+    "redux-thunk": "^1.0.0"    
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "envify": "^3.4.0",
+    "express": "^4.13.3",
+    "babel-plugin-react-transform": "1.1.1",
+    "livereactload": "latest",
+    "uglifyify": "^3.0.1",
+    "nodemon": "^1.7.0",
+    "react-proxy": "^1.1.0",
+    "watchify": "^3.4.0"
+  }    
+}

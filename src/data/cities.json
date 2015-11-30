@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2,
+    "name": "Koblenz",
+    "center": {
+      "latitude": 50.35469436645508,
+      "longitude": 7.595911026000977
+    },
+    "extents": {
+      "latitude": 0.02641,
+      "longitude": 0.027374
+    }
+  },
+  {
+    "id": 1,
+    "name": "Düsseldorf",
+    "center": {
+      "latitude": 51.2166667,
+      "longitude": 6.7666667
+    },
+    "extents": {
+      "latitude": 0.08,
+      "longitude": 0.08
+    }
+  }
+]

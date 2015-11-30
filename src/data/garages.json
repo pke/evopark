@@ -1,0 +1,1451 @@
+[
+  {
+    "id": 6,
+    "name": "Carsch-Haus",
+    "email": "servicecenter@q-park.de",
+    "phone_number": "0211 38427 9300",
+    "description": "Höhe 1,90 m. Nacht- und Feiertagszugang durch Gegensprechanlage",
+    "coordinates": {
+      "latitude": 51.224383,
+      "longitude": 6.776923
+    },
+    "parking_spaces": 525,
+    "availability": {
+      "total": 479,
+      "available": 349,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "25.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 30,
+          "price": "1.0",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Erste halbe Stunde 1,00 €"
+        },
+        {
+          "priority": 2,
+          "interval": 30,
+          "price": "1.5",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Zweite halbe Stunde 1,50 €"
+        },
+        {
+          "priority": 3,
+          "interval": 60,
+          "price": "2.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je weitere angefangene Stunde 2,50 €\r\nNachttarif Mo. - Fr. 22:00 - 07:00 Uhr, Sa. 20:30 - 07:00 Uhr maximal 4,00 € \r\nSonn- + Feiertag maximal 4,00 €"
+        }
+      ],
+      "initial_rest_period": 5,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Grabenstraße",
+      "building_nr": "17",
+      "zip_code": "40213",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 10,
+    "city_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Contipark Test",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "parking_spaces": 350,
+    "availability": {
+      "total": 350,
+      "available": 335,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "10.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "1,50 € pro Stunde"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "23:00"
+      }
+    ],
+    "address": {
+      "street": "Rankestraße",
+      "building_nr": "13",
+      "zip_code": "10789",
+      "city": "Berlin",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "upcoming",
+    "nearby_store_count": 0,
+    "city_id": 1
+  },
+  {
+    "id": 12,
+    "name": "Schadow Arkaden",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "parking_spaces": null,
+    "availability": null,
+    "pricing": {
+      "daily_price_cap": "20.0",
+      "currency": "EUR",
+      "schedules": [],
+      "initial_rest_period": 10,
+      "exit_rest_period": 10
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Shadowstraße",
+      "building_nr": "11",
+      "zip_code": "40212",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "upcoming",
+    "nearby_store_count": 0,
+    "city_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Stilwerk",
+    "email": "servicecenter@q-park.de",
+    "phone_number": "0211 38427 9300",
+    "description": "Einfahrtshöhe 2,0m\nJe angefangene 60 Minuten: 2,70 €\nNachttarif 18:00  6:00 Uhr: pauschal 5,00 €",
+    "coordinates": {
+      "latitude": 51.221426,
+      "longitude": 6.781036
+    },
+    "parking_spaces": 415,
+    "availability": {
+      "total": 365,
+      "available": 355,
+      "timestamp": "2015-11-27T23:05:09Z"
+    },
+    "pricing": {
+      "daily_price_cap": "27.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "2.7",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je angefangene Stunde 2,70 €"
+        }
+      ],
+      "initial_rest_period": 5,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "07:30",
+        "closes_at": "21:30"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "19:00"
+      }
+    ],
+    "address": {
+      "street": "Grünstraße",
+      "building_nr": "15",
+      "zip_code": "40212",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 16,
+    "city_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Kunsthalle",
+    "email": null,
+    "phone_number": null,
+    "description": "Frauenstellplätze, Einfahrtshöhe: Parkbereich unten: 2,00 m; Parkbereich oben: 1,80 m",
+    "coordinates": {
+      "latitude": 51.22718,
+      "longitude": 6.77567
+    },
+    "parking_spaces": 120,
+    "availability": {
+      "total": 103,
+      "available": 9,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "15.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 3,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je weitere angefangene Stunde 1,50 € "
+        },
+        {
+          "priority": 1,
+          "interval": 30,
+          "price": "0.7",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Erste halbe Stunde 0,70 €"
+        },
+        {
+          "priority": 2,
+          "interval": 30,
+          "price": "0.8",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Zweite halbe Stunde 0,80 €"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Grabbeplatz",
+      "building_nr": "4",
+      "zip_code": "40213",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 1,
+    "city_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Hohe Straße",
+    "email": null,
+    "phone_number": null,
+    "description": "Frauenstellplätze, Einfahrtshöhe: 1,90 m",
+    "coordinates": {
+      "latitude": 51.2201,
+      "longitude": 6.77466
+    },
+    "parking_spaces": 75,
+    "availability": {
+      "total": 73,
+      "available": 56,
+      "timestamp": "2015-11-27T23:05:07Z"
+    },
+    "pricing": {
+      "daily_price_cap": "16.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "1.7",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je angefangene Stunde 1,70 €"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "23:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "23:00"
+      }
+    ],
+    "address": {
+      "street": "Siegfried-Klein-Straße",
+      "building_nr": "5",
+      "zip_code": "40213",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 0,
+    "city_id": 1
+  },
+  {
+    "id": 7,
+    "name": "Münster-Center",
+    "email": null,
+    "phone_number": null,
+    "description": "10 Frauenparkplätze, 4 Behindertenparkplätze, max. Durchfahrtshöhe: 1,85m, für evopark Kunden ab 22 Uhr Fußzugang über Gegensprechanlage",
+    "coordinates": {
+      "latitude": 51.24563,
+      "longitude": 6.78688
+    },
+    "parking_spaces": 364,
+    "availability": {
+      "total": 289,
+      "available": 162,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "12.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 30,
+          "price": "1.0",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "1,00 € für 30 Minuten"
+        },
+        {
+          "priority": 2,
+          "interval": 30,
+          "price": "0.5",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "1,50 € für 1 Stunde"
+        },
+        {
+          "priority": 3,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Jede weitere Stunde € 1,50"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "22:00"
+      }
+    ],
+    "address": {
+      "street": "Glockenstraße 35 /",
+      "building_nr": "Münsterstraße 101",
+      "zip_code": "40476",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 1,
+    "city_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Barbarossaplatz",
+    "email": null,
+    "phone_number": null,
+    "description": "Personalbesetzt, 18 Damenparkplätze, Behindertenparkplätze, Regenschirmverleih, Quartiersgarage, max. Durchfahrtshöhe: 2,00m",
+    "coordinates": {
+      "latitude": 51.231393,
+      "longitude": 6.753024
+    },
+    "parking_spaces": 352,
+    "availability": {
+      "total": 175,
+      "available": 163,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "19.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 2,
+          "interval": 60,
+          "price": "2.0",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je weitere angefangene Stunde 2,00 €"
+        },
+        {
+          "priority": 1,
+          "interval": 30,
+          "price": "1.0",
+          "count_max": 2,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Erste halbe Stunde 1,00€\r\nZweite halbe Stunde 1,00€\r\n"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Luegallee",
+      "building_nr": "67-69",
+      "zip_code": "40545",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 8,
+    "city_id": 1
+  },
+  {
+    "id": 13,
+    "name": "Carlsplatz",
+    "email": null,
+    "phone_number": null,
+    "description": "Frauenparkplätze, Videoüberwachung, Tankstelle und Wagenpflege",
+    "coordinates": {
+      "latitude": 51.223018,
+      "longitude": 6.773424
+    },
+    "parking_spaces": null,
+    "availability": {
+      "total": 388,
+      "available": 307,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "28.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "2.2",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "€2,20 je angefangene Stunde"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "01:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "01:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "01:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "01:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "07:00",
+        "closes_at": "01:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "01:00"
+      }
+    ],
+    "address": {
+      "street": "Benrather Straße",
+      "building_nr": "7b",
+      "zip_code": "40213",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 2,
+    "city_id": 1
+  },
+  {
+    "id": 2,
+    "name": "HBF / Immermannhof",
+    "email": null,
+    "phone_number": null,
+    "description": "Direkt am Hauptbahnhof Düsseldorf, Rental Car Hertz, Personalbesetzt, XXL Parkplätze, Höhe 2,0m",
+    "coordinates": {
+      "latitude": 51.22147,
+      "longitude": 6.7914
+    },
+    "parking_spaces": 250,
+    "availability": {
+      "total": 250,
+      "available": 139,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "19.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "2.0",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je angefangene Stunde 2,00€"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Immermannstr.",
+      "building_nr": "65",
+      "zip_code": "40210",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 2,
+    "city_id": 1
+  },
+  {
+    "id": 15,
+    "name": "Rhein-Mosel-Halle",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": 50.352713,
+      "longitude": 7.600528
+    },
+    "parking_spaces": null,
+    "availability": null,
+    "pricing": {
+      "daily_price_cap": "20.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "1,50€ je angefangene Stunde"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Julius-Wegeler-Straße",
+      "building_nr": "1",
+      "zip_code": "56068",
+      "city": "Koblenz",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "upcoming",
+    "nearby_store_count": 0,
+    "city_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Tiefgarage Görresplatz",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": 50.359278,
+      "longitude": 7.600819
+    },
+    "parking_spaces": null,
+    "availability": {
+      "total": 340,
+      "available": 153,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "15.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 0,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "1,50 € für 1 Stunde\r\nNachttarif: 20:00 - 5:00 Uhr\r\nangefang. Stunde 0,80 EUR\r\n(max. 4,00 EUR)"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Josef-Görres-Platz",
+      "building_nr": "19",
+      "zip_code": "56068",
+      "city": "Koblenz",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 4,
+    "city_id": 2
+  },
+  {
+    "id": 16,
+    "name": "Ratinger Tor",
+    "email": null,
+    "phone_number": "+ 49 (0)211/ 327848",
+    "description": null,
+    "coordinates": {
+      "latitude": 51.229661,
+      "longitude": 6.776435
+    },
+    "parking_spaces": 245,
+    "availability": {
+      "total": 245,
+      "available": 74,
+      "timestamp": "2015-11-19T17:03:04Z"
+    },
+    "pricing": {
+      "daily_price_cap": "17.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 3,
+          "interval": 60,
+          "price": "1.7",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Jede weitere Stunde 1,70€"
+        },
+        {
+          "priority": 2,
+          "interval": 60,
+          "price": "1.8",
+          "count_max": 1,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Bis 1 Stunde 1,80€"
+        },
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "1.7",
+          "count_max": null,
+          "valid_from": "22:00",
+          "valid_to": "08:00",
+          "max_schedule": "4.0",
+          "description": "Nacht-Tarif (22:00-8:00) Uhr max 4 €"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "03:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "03:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "03:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "06:00",
+        "closes_at": "03:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "09:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Ratinger Straße",
+      "building_nr": "50",
+      "zip_code": "40213",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 0,
+    "city_id": 1
+  },
+  {
+    "id": 17,
+    "name": "Scheibenstraße",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": 51.235052,
+      "longitude": 6.777381
+    },
+    "parking_spaces": 190,
+    "availability": null,
+    "pricing": {
+      "daily_price_cap": "17.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 3,
+          "interval": 60,
+          "price": "1.7",
+          "count_max": null,
+          "valid_from": "08:00",
+          "valid_to": "22:00",
+          "max_schedule": null,
+          "description": "Jede weitere Stunde 1,70 €"
+        },
+        {
+          "priority": 2,
+          "interval": 30,
+          "price": "0.9",
+          "count_max": 2,
+          "valid_from": "08:00",
+          "valid_to": "22:00",
+          "max_schedule": null,
+          "description": "Bis 30 Minuten 0,90 €\r\nBis 1 Stunde 1,80 €"
+        },
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "0.8",
+          "count_max": null,
+          "valid_from": "22:00",
+          "valid_to": "08:00",
+          "max_schedule": "8.0",
+          "description": "Nacht-Tarif 0,80 € je angefangene Stunde, max 8€"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Scheibenstraße",
+      "building_nr": "2",
+      "zip_code": "40479",
+      "city": "Düsseldorf",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "upcoming",
+    "nearby_store_count": 0,
+    "city_id": 1
+  },
+  {
+    "id": 14,
+    "name": "Altlöhrtor",
+    "email": null,
+    "phone_number": "+49 (0)261/35569",
+    "description": null,
+    "coordinates": {
+      "latitude": 50.358216,
+      "longitude": 7.593718
+    },
+    "parking_spaces": 370,
+    "availability": null,
+    "pricing": {
+      "daily_price_cap": "15.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "",
+          "valid_to": "",
+          "max_schedule": null,
+          "description": "Je angefangene Stunde 1,50€"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "06:30",
+        "closes_at": "20:30"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "10:00",
+        "closes_at": "20:30"
+      }
+    ],
+    "address": {
+      "street": "Altlöhrtor",
+      "building_nr": "1",
+      "zip_code": "56068",
+      "city": "Koblenz",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "upcoming",
+    "nearby_store_count": 16,
+    "city_id": 2
+  },
+  {
+    "id": 11,
+    "name": "Parkplatz am Schloss (oberirdisch)",
+    "email": null,
+    "phone_number": null,
+    "description": null,
+    "coordinates": {
+      "latitude": 50.35525,
+      "longitude": 7.59991
+    },
+    "parking_spaces": null,
+    "availability": {
+      "total": 300,
+      "available": 300,
+      "timestamp": "2015-11-27T23:05:06Z"
+    },
+    "pricing": {
+      "daily_price_cap": "15.0",
+      "currency": "EUR",
+      "schedules": [
+        {
+          "priority": 1,
+          "interval": 60,
+          "price": "0.5",
+          "count_max": null,
+          "valid_from": "20:00",
+          "valid_to": "05:00",
+          "max_schedule": "3.0",
+          "description": "Nachttarif:\r\n1,50 € für 1 Stunde\r\nMaximal 3,00 €"
+        },
+        {
+          "priority": 0,
+          "interval": 60,
+          "price": "1.5",
+          "count_max": null,
+          "valid_from": "00:00",
+          "valid_to": "24:00",
+          "max_schedule": null,
+          "description": "1,50 € für 1 Stunde"
+        }
+      ],
+      "initial_rest_period": 0,
+      "exit_rest_period": 0
+    },
+    "opening_times": [
+      {
+        "week_day": 1,
+        "date": null,
+        "opens_at": "16:30",
+        "closes_at": "05:30"
+      },
+      {
+        "week_day": 2,
+        "date": null,
+        "opens_at": "16:30",
+        "closes_at": "05:30"
+      },
+      {
+        "week_day": 3,
+        "date": null,
+        "opens_at": "16:30",
+        "closes_at": "05:30"
+      },
+      {
+        "week_day": 4,
+        "date": null,
+        "opens_at": "16:30",
+        "closes_at": "05:30"
+      },
+      {
+        "week_day": 5,
+        "date": null,
+        "opens_at": "14:00",
+        "closes_at": "00:00"
+      },
+      {
+        "week_day": 6,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      },
+      {
+        "week_day": 7,
+        "date": null,
+        "opens_at": "00:00",
+        "closes_at": "24:00"
+      }
+    ],
+    "address": {
+      "street": "Neustadt",
+      "building_nr": "20",
+      "zip_code": "56068",
+      "city": "Koblenz",
+      "country_code": "de",
+      "additional": null
+    },
+    "status": "active",
+    "nearby_store_count": 2,
+    "city_id": 2
+  }
+]
