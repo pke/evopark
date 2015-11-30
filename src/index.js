@@ -8,8 +8,8 @@ const store = configureStore({
   garages: require("./data/garages"),
   cities: require("./data/cities"),
   retailers: require("./data/retailers"),
-  types: ["garage", "retailer"],
-  typeFilter: [],
+  typeFilter: {garage: true, retailer: true},
+  currentParking: null, // garageId, startedAt, costs
   cityFilter: [] // city_id
 })
 

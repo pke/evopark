@@ -4,15 +4,18 @@ import {
   REMOVE_FILTER
 } from '../actions/filters';
 
-export function typeFilter(state = [], action) {
+export function typeFilter(state = {}, action) {
   switch (action.type) {
     case ADD_FILTER:
-      debugger
-      return [...state, action.id]
+      return Object.assign({}, state, { [action.id]: true})
     case REMOVE_FILTER:
-      return state.filter(id => id !== action.id)
+      return Object.assign({}, state, { [action.id]: false})
     case CLEAR_ALL_FILTER:
-      return []
+      var empty = {}
+      Object.keys(state).forEach(key => {
+        empty[key] = false
+      })
+      return empty
     default:
       return state;
   }

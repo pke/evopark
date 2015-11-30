@@ -9,8 +9,8 @@ const rootReducer = combineReducers({
   cities: identity,
   garages: identity,
   retailers: identity,
-  types: identity,
   cityFilter: identity,
+  currentParking: identity,
   typeFilter
 })
 

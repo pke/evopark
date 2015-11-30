@@ -6,8 +6,8 @@ function onChange(addFilter, removeFilter, id, active) {
 }
 
 let Component = ({filters,addFilter,removeFilter}) => (
-  <div>{filters.map(filter => (
-    <TypeFilterItem key={filter} id={filter} name={filter} active={filter.active} onChange={onChange.bind(null, addFilter, removeFilter)} />
+  <div>{Object.keys(filters).map(filter => (
+    <TypeFilterItem key={filter} id={filter} name={filter} active={filters[filter]} onChange={onChange.bind(null, addFilter, removeFilter)} />
   ))}
   </div>
 )
@@ -17,7 +17,7 @@ const filterShape = PropTypes.shape({
   name: PropTypes.string.isRequired
 })
 Component.propTypes = {
-  filters: PropTypes.arrayOf(PropTypes.string).isRequired,
+  filters: PropTypes.object.isRequired,
   addFilter: PropTypes.func.isRequired,
   removeFilter: PropTypes.func.isRequired
 }
