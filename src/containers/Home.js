@@ -7,10 +7,12 @@ import { setSearch } from "../actions/search"
 
 import * as Colors from "../styles/colors"
 
-import FilteredList from "./FilteredList"
+import List from "./FilteredList"
 import TypeFilter from "../components/TypeFilter"
 import SearchInput from "../components/SearchInput"
 import GarageFeatureFilter from "../components/GarageFeatureFilter"
+import Map from "../components/Map"
+
 import * as CitySelectors from "../selectors/city"
 
 function mapStateToProps(state) {
@@ -71,15 +73,20 @@ const style = {
 
 let Home = ({items, typeFilter, setSearch, addTypeFilter, removeTypeFilter, textFilter, garageFeatureFilter, addGarageFeatureFilter, removeGarageFeatureFilter}) => {
   return <div MapListView style={style}>
-		<div sarchAndFilters style={{backgroundColor: Colors.EVOPARK_BLUE_DARKER}}>
+		<div sarchAndFilters style={{backgroundColor: Colors.EVOPARK_BLUE_DARKER, height: "3em"}}>
 			<SearchInput value={textFilter} onChange={setSearch}/>
 	    <TypeFilter filters={typeFilter} addFilter={addTypeFilter} removeFilter={removeTypeFilter}/>
 	    <GarageFeatureFilter filters={garageFeatureFilter} addFilter={addGarageFeatureFilter} removeFilter={removeGarageFeatureFilter}/>
 			<div style={{height: "12px", borderBottom: "1px solid " + Colors.EVOPARK_BLUE_LIGHTER }}/>
 		</div>
-    <div style={{ overflowY: "auto" }}>
-      <FilteredList items={items} highlight={textFilter}/>
-    </div>
+		<div style={{display:"flex", alignItems: "stretch"}}>
+			<div style={{ width: "40%", padding: "10px", overflowY: "auto" }}>
+	      <List items={items} highlight={textFilter}/>
+	    </div>
+			<div style={{ width: "60%", padding: "10px", marginRight: "20px"}}>
+				<Map items={[]}/>
+			</div>
+		</div>
   </div>
 }
 Home.displayName = "Home"

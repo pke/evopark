@@ -7,9 +7,10 @@ app.get("/", (req, res) => {
     <head>
       <title>app - evopark</title>
       <style>body { margin: 0}</style>
+      <link rel="stylesheet" href="node_modules/openlayers/dist/ol.css" type="text/css">
     </head>
     <body>
-      <div id="app"></div>
+      <div id="app"></div>      
       <script type="text/javascript" src="/static/bundle.js"></script>
     </body>
   </html>`)
