@@ -6,10 +6,10 @@ function onChange(addFilter, removeFilter, id, active) {
 }
 
 let Component = ({filters,addFilter,removeFilter}) => (
-  <div>{Object.keys(filters).map(filter => (
+  <span>{Object.keys(filters).map(filter => (
     <TypeFilterItem key={filter} id={filter} name={filter} active={filters[filter]} onChange={onChange.bind(null, addFilter, removeFilter)} />
   ))}
-  </div>
+  </span>
 )
 Component.displayName = "TypeFilter"
 const filterShape = PropTypes.shape({

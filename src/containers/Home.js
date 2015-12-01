@@ -2,45 +2,88 @@ import React, { PropTypes } from "react"
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 
-import { addFilter, removeFilter } from "../actions/filters"
+import { addTypeFilter, removeTypeFilter, addGarageFeatureFilter, removeGarageFeatureFilter } from "../actions/filters"
+import { setSearch } from "../actions/search"
+
+import * as Colors from "../styles/colors"
 
 import FilteredList from "./FilteredList"
 import TypeFilter from "../components/TypeFilter"
+import SearchInput from "../components/SearchInput"
+import GarageFeatureFilter from "../components/GarageFeatureFilter"
+import * as CitySelectors from "../selectors/city"
 
-let Home = ({items, typeFilter, addFilter, removeFilter}) => {
-  return <div MapListView>
-    <TypeFilter filters={typeFilter} addFilter={addFilter} removeFilter={removeFilter}/>
-    <FilteredList items={items}/>
-  </div>
-}
-Home.displayName = "Home"
-
-function mapStateToProps({cities,garages,retailers,typeFilter}) {
+function mapStateToProps(state) {
 	var items = []
-  if (typeFilter.garage) {
-    items = items.concat(garages.map(item => {
+  if (state.typeFilter.garage) {
+    items.push.apply(items, state.garages.map(item => {
       item.type = "garage"
       return item
     }))
   }
-  if (typeFilter.retailer) {
-    items = items.concat(retailers.map(item => {
+  if (state.typeFilter.retailer) {
+    items.push.apply(items, state.retailers.map(item => {
       item.type = "retailer"
       return item
     }))
   }
-  items = items.concat(cities.map(item => {
+  items.push.apply(items, state.cities.map(item => {
     item.type = "city"
     return item
   }))
+  if (state.textFilter) {
+    let textFilter = state.textFilter.toLowerCase()
+    items = items.filter(item => (
+      !item.name || item.name.toLowerCase().indexOf(textFilter) >= 0
+    ))
+  }
+  if (state.garageFeatureFilter) {
+    items = items.filter(item => {
+      if (item.type !== "garage") {
+        return true
+      }
+      return state.garageFeatureFilter.every(featureName => (
+        item.features[featureName]
+      ))
+    })
+  }
+  let sortDirAdjust = state.sortDirection === "DESC" ? -1 : 1
+  console.info(state.sortDirection)
+  items = items.sort((a,b) => ( sortDirAdjust * a.name.localeCompare(b.name) ))
   return {
     items: items,
-    typeFilter
+    typeFilter: state.typeFilter,
+    textFilter: state.textFilter,
+    garageFeatureFilter: state.garageFeatureFilter
   };
 }
 
 function mapDispatchToProps(dispatch) {
-  return bindActionCreators({addFilter, removeFilter}, dispatch)
+  return bindActionCreators({setSearch, addTypeFilter, removeTypeFilter, addGarageFeatureFilter, removeGarageFeatureFilter}, dispatch)
 }
 
+const style = {
+  height: "100%",
+  overflow: "hidden",
+  display: "flex",
+  flexDirection: "column"
+}
+
+let Home = ({items, typeFilter, setSearch, addTypeFilter, removeTypeFilter, textFilter, garageFeatureFilter, addGarageFeatureFilter, removeGarageFeatureFilter}) => {
+  return <div MapListView style={style}>
+		<div sarchAndFilters style={{backgroundColor: Colors.EVOPARK_BLUE_DARKER}}>
+			<SearchInput value={textFilter} onChange={setSearch}/>
+	    <TypeFilter filters={typeFilter} addFilter={addTypeFilter} removeFilter={removeTypeFilter}/>
+	    <GarageFeatureFilter filters={garageFeatureFilter} addFilter={addGarageFeatureFilter} removeFilter={removeGarageFeatureFilter}/>
+			<div style={{height: "12px", borderBottom: "1px solid " + Colors.EVOPARK_BLUE_LIGHTER }}/>
+		</div>
+    <div style={{ overflowY: "auto" }}>
+      <FilteredList items={items} highlight={textFilter}/>
+    </div>
+  </div>
+}
+Home.displayName = "Home"
+Home.propTypes = {
+  items: PropTypes.array.isRequired
+}
 export default connect(mapStateToProps, mapDispatchToProps)(Home)

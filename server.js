@@ -6,6 +6,7 @@ app.get("/", (req, res) => {
   <html>
     <head>
       <title>app - evopark</title>
+      <style>body { margin: 0}</style>
     </head>
     <body>
       <div id="app"></div>

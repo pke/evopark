@@ -1,12 +1,15 @@
 import React, { PropTypes } from 'react'; // eslint-disable-line no-unused-vars
 import ListItem from "../components/ListItem"
 
-let FilteredList = ({items, typeFilter, children}) => (
+import Shuffle from "react-shuffle"
+
+let FilteredList = ({items, children, highlight}) => (
   <div>
-    <ol>{items && items.map(item => (
-        <a href={item.id} key={item.id+item.type}><li><ListItem {...item} /></li></a>
-      ))
-    }
+    <ol>
+      <div>{items && items.map(item => (
+          <div href={item.id} key={item.id+item.type}><li><ListItem {...item} highlight={highlight} /></li></div>
+        ))}
+      </div>
     </ol>
   </div>
 )
@@ -18,6 +21,7 @@ const itemShape = PropTypes.shape({
   name: PropTypes.string.isRequired
 })
 FilteredList.propTypes = {
-  items: PropTypes.arrayOf(itemShape).isRequired
+  items: PropTypes.arrayOf(itemShape).isRequired,
+  highlight: PropTypes.string
 }
 export default FilteredList

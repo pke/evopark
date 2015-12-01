@@ -5,7 +5,7 @@
   "author": "evopark GmbH",
   "license": "MIT",
   "main": "src/index.js",
-   "scripts": {
+  "scripts": {
     "start": "babel-node server.js",
     "bundle:prod": "browserify site.js -t babelify -g envify -o bundle.js",
     "watch": "npm run watch:server & npm run watch:bundle & wait",
@@ -13,11 +13,14 @@
     "watch:bundle": "watchify src/index.js -v -t babelify -g envify -p livereactload -o bundle.js"
   },
   "dependencies": {
+    "color": "^0.10.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
+    "react-highlighter": "^0.2.2",
     "react-redux": "^4.0.0",
+    "react-shuffle": "^1.0.0",
     "redux": "^3.0.0",
-    "redux-thunk": "^1.0.0"    
+    "redux-thunk": "^1.0.0"
   },
   "devDependencies": {
     "babel": "^5.8.23",
@@ -31,5 +34,5 @@
     "nodemon": "^1.7.0",
     "react-proxy": "^1.1.0",
     "watchify": "^3.4.0"
-  }    
+  }
 }
